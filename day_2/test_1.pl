@@ -4,7 +4,7 @@ use Data::Dumper;
 use Test::Most;
 use lib '.';
 
-require "main.pl";
+require "main_1.pl";
 
 =cut
 1-3 a: abcde
